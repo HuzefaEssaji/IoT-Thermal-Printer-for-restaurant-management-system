@@ -10,7 +10,8 @@
 
 ## Screenshots
 
-![Process Flow](https://drive.google.com/file/d/13vEYqtdu1St2Ay9aIGmG_ZmBYIfG5jo_/view?usp=sharing)
+
+![Screenshot 2022-03-19 005405](https://user-images.githubusercontent.com/55643883/159073343-ced2f704-0d9a-4bfe-ad40-8698011746ef.png)
 
 
 
