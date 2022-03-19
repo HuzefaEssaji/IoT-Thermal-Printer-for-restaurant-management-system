@@ -8,12 +8,15 @@
 - This results in speeding up the serving time of dine-in restaurants by automating the process in which a waiter takes the customer’s order, now the customers don't have to wait neither for the waiter to come and take their orders nor for him to bring bills for payment.
 
 
-## Screenshots
+## Process Flowchart and Schematic
 
 
 ![Screenshot 2022-03-19 005405](https://user-images.githubusercontent.com/55643883/159073343-ced2f704-0d9a-4bfe-ad40-8698011746ef.png)
 
 
+
+
+![WhatsApp Image 2022-03-20 at 12 05 30 AM](https://user-images.githubusercontent.com/55643883/159134223-eca3de7a-8525-45ad-a20b-7c7b0c0f2472.jpeg)
 
 
 
