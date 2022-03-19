@@ -36,6 +36,6 @@
 ## Authors
 
 - [@HuzefaEssaji](https://github.com/HuzefaEssaji)
-- [@JanmenjayRathi](https://github.com/janmejayRathi)
+- [@Janmenjay-Rathi](https://github.com/Janmejay-Rathi)
 
 
