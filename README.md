@@ -25,7 +25,7 @@
 - Low Cost
 - Portable
 - Push Data to Cloud to analyze user eating habits
-- Easy installation even in small stalls
+- Easy installation even in small stalls!
 
 
 ## Technology/ Components Used
@@ -34,6 +34,8 @@
 - ESP32  microcontroller with inbuilt Wi-Fi and Bluetooth features.
 - RTOS
 
+## Product Image
+[WhatsApp Image 2022-03-20 at 12 12 32 AM](https://user-images.githubusercontent.com/55643883/159134397-a1982c89-1f41-49dd-81ed-5bf3b0a1432a.jpeg)
 
 
 ## Authors
