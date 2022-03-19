@@ -3,9 +3,9 @@
 
 - This device helps the customers place their orders by scanning a QR code in  dine-in restaurants within seconds from their smartphones.
 - This helps restaurants to reguarly update their menu cards and higlight trending and most popular dishes with a hassle free process. 
-- The restaurants need not print menu cards again even if they need to add/remove/update dishe details like Price, ingridients ect.
-- This also helps restaurant owners to hire fewer waiters and reduce staff’s salary costs. 
-- This results in speeding up the serving time of dine-in restaurants by automating the process in which a waiter takes  the customer’s order. The customers don't have to  wait for the waiter to take their orders or wait for them to bring bills for payment.
+- The restaurants need not print menu cards again even if they need to add/remove/update dish details like price, ingredients ect.
+- This also helps restaurant owners to reduce the man power & its associated cost. 
+- This results in speeding up the serving time of dine-in restaurants by automating the process in which a waiter takes the customer’s order, now the customers don't have to wait neither for the waiter to come and take their orders nor for him to bring bills for payment.
 
 
 ## Screenshots
